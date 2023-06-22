@@ -1,0 +1,8 @@
+NOT: Bu uygulamayı doğru kullanabilmek için aşağıdaki adımları takip ediniz.
+1) Öncelikle kullanacağınız Word şablonunda değiştirilmesini istediğiniz veriler aşağıdaki gibi olmalıdır.
+2) veri1- veri2 şeklinde olmalıdır.
+3) veri9 dan sonra veria0, veria1 şeklinde devam etmelidir.
+4) veria9 dan sonra ise verib0 şeklinde devam eder.
+5) verib9 da ise değiştirilebilecek veri sayısı biter.
+6) Toplamda 29 veri değişikliği yapılabilir.
+7) Excel dosyasından çekilecek verilerin yatay şekilde aşağıdaki gibi sıralanması gerekmektedir.
