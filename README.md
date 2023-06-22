@@ -1,5 +1,7 @@
-# Welcome to GitHub Desktop!
+Excel'den çekilen verileri Word şablonuna ekleyen ve kaydeden bir arayüzdür. Birden fazla veriyi kullanarak birden fazla word dosyası oluşturabilir. Arayüzde bulunan notları okuyunuz.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Created by Hüseyin OCAK
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+e-mail: huseyinocak1111@gmail.com
+
+with contributions from Havvanur TEKİN
